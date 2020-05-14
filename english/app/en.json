@@ -271,6 +271,7 @@
       "INTERESTED": "Join Group",
       "CONTACT": "Contact Leader",
       "CONTACT-TITLE": "Contact Leader",
+      "CONTACT-PROMPT": "Feel free to ask the group leaders a question before joining.",
       "CONTACT-FROM": "From:",
       "CONTACT-NAME-HELP": "Your name is required",
       "CONTACT-EMAIL-HELP": "Your email address is required",

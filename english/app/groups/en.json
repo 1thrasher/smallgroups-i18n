@@ -20,7 +20,7 @@
     },
     "CREATE": {
       "TITLE": "Create a Group",
-      "DESCRIPT": "Ready to lead a group? Just complete this simple form and you'll be on your way.",
+      "DESCRIPT": "Ready to lead a group? Just complete this simple form.",
       "BTN-VIEW": "Create a Group"
     },
     "PENDING": {

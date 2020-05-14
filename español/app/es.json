@@ -270,6 +270,7 @@
       "INTERESTED": "Estoy interesado",
       "CONTACT": "Contactar a líder",
       "CONTACT-TITLE": "Contactar a líder",
+      "CONTACT-PROMPT": "No dude en hacer una pregunta a los líderes del grupo antes de unirse.",
       "CONTACT-FROM": "De:",
       "CONTACT-NAME-HELP": "Tu nombre es obligatorio",
       "CONTACT-EMAIL-HELP": "Tu correo electrónico es obligatorio",
@@ -283,7 +284,7 @@
       "JOIN-PRIVATE-PHONE": "Privado – Solo el líder del grupo verá tu número telefónico",
       "JOIN-BTN": "¡Únete a un grupo!",
       "JOIN-SENT": "Tu pedido de unirte a un grupo ha sido enviado",
-      "JOIN-LOGIN-PROMPT": "Es necesario que inicies sesión para unirte a un grupo."     
+      "JOIN-LOGIN-PROMPT": "Es necesario que inicies sesión para unirte a un grupo."
     },
     "SERVER-ERROR-NO-CHURCH": "No se ha encontrado ninguna iglesia con esta dirección web."
   },
